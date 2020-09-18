@@ -30,6 +30,7 @@ Approach:
 
 
 2. Marketing Recommendations
+
 Approach:
 -Which marketing source is responsible in bringing which type of customer? -Which marketing source brings the most business?
 -What is the average income per source?
