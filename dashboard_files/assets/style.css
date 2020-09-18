@@ -1,0 +1,48 @@
+#years{
+	/*width:100px;*/
+	/*float: right;*/
+	padding: 5px;
+}
+.filter-dropdown{
+	width: 200px;
+	padding: 5px;
+}
+.graph-container{
+	display: flex;
+	justify-content: center;
+}
+.info-container{
+display: flex;
+justify-content: center;
+flex-grow: 8;
+}
+
+.info-sub-container > p{
+	font-size: 16px;
+}
+.info-sub-container{
+	padding: 50px;
+	text-align: center;
+}
+.filter-container{
+	flex-grow: 1;
+}
+
+.filter-info-container{
+	display: flex;
+	/*justify-content: center;*/
+}
+
+.car-filter-container{
+	padding-top: 40px;
+}
+
+.label-text{
+	padding-left: 5px
+}
+.form-layout{
+	display: flex;
+}
+.form-component{
+
+}
